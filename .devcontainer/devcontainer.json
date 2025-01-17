@@ -1,0 +1,11 @@
+{
+  "name": "Amazon Linux 2023 Java Development",
+  "image": "amazonlinux-java-dev:latest",
+  "settings": {
+    "java.home": "/usr/lib/jvm/java-17-openjdk",
+    "java.jdt.ls.java.home": "/usr/lib/jvm/java-17-openjdk"
+  },
+  "extensions": [
+    "vscjava.vscode-java-pack"
+  ]
+}
